@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416486994981",
+    "project_id": "mynotes-ce067",
+    "storage_bucket": "mynotes-ce067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416486994981:android:f58dbc2ac268e2c38dfbcc",
+        "android_client_info": {
+          "package_name": "com.example.my_notbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416486994981-6otjqr31tr0t3g45t3bc4lrtojaq0fn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJp7X_ulJiKkVZWIFfXtgETclvJ3PUV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416486994981-6otjqr31tr0t3g45t3bc4lrtojaq0fn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
